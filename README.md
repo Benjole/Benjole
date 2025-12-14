@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Benjamin Honoré!
+# Hi there 👋 I'm Benjamin!
 
 ### ℹ️ About Me
 I'm a student in **Theoretical Physics**, also interested in **Data Science** and **Machine Learning** problems. Some of my work often lies at the intersection of complex physical systems and advanced computational modeling.
@@ -35,8 +35,3 @@ This project focused on using a Deep Neural Network to better disentangle comple
 | **Scientific Computing** | PyTorch, NumPy, SciPy |
 | **Modeling / Analysis** | MatLab, Mathematica, LaTeX |
 | **Version Control** | Git, GitHub |
-
-
-```markdown
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
