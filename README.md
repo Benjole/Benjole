@@ -32,6 +32,6 @@ This project focused on using a Deep Neural Network to better disentangle comple
 | Category | Skills / Tools |
 | :--- | :--- |
 | **Programming** | Python, C++, Bash |
-| **Scientific Computing** | PyTorch, NumPy, SciPy |
+| **Scientific Computing** | PyTorch, NumPy, ROOT |
 | **Modeling / Analysis** | MatLab, Mathematica, LaTeX |
 | **Version Control** | Git, GitHub |
