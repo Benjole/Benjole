@@ -17,11 +17,11 @@ This project involves research on a discrete flow matching model (DeFoG) that op
 
 #### ⚛️ Higgs Boson to 4 Leptons Decay Analysis
 
-This project focused on leveraging Deep Neural Networks (DNNs) to better disentangle complex background processes within the decay channel of the Higgs boson to four leptons ($H \rightarrow 4\ell$).
+This project focused on using a Deep Neural Network to better disentangle complex background processes within a particular Higgs decay channel ($pp \rightarrow H \rightarrow 4\ell$).
 
 * **The Issue:** Traditional kinematical analyses can often be insensitive to the specific underlying **production process** of the Higgs boson.
 * **The Solution:** Using supplemental data (such as associated jet information), a Neural Network was trained to separate different Higgs production modes.
-* **My Contribution:** I developed an analysis pipeline to quantify the sensitivity of the trained DNN across various backgrounds, providing a comprehensive performance metric for the classification system.
+* **My Contribution:** I developed an analysis pipeline to quantify the sensitivity of the trained DNN across various backgrounds, assessing the feasability of a more detailed analysis.
 
 ---
 
@@ -32,11 +32,10 @@ This project focused on leveraging Deep Neural Networks (DNNs) to better disenta
 | Category | Skills / Tools |
 | :--- | :--- |
 | **Programming** | Python, C++, Bash |
-| **Scientific Computing** | PyTorch, TensorFlow, NumPy, SciPy |
+| **Scientific Computing** | PyTorch, NumPy, SciPy |
 | **Modeling / Analysis** | MatLab, Mathematica, LaTeX |
 | **Version Control** | Git, GitHub |
 
-*(Optional: Add Skill Badges here for a visual touch. Example code for Python/C++ is below)*
 
 ```markdown
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
