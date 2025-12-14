@@ -3,7 +3,6 @@
 ### About me
 I'm a student in theoretical physics, also interested in Data Sciences !
 I am currently working on Graph Diffusion Models
-* You can reach out at [benjamin.honore@epfl.ch], I would be very happy to discuss !
 
 ### Projects
 Graph Diffusion Models and Symmetry Breaking
@@ -14,3 +13,6 @@ In this project, we investigate the effect of breaking the graph permutation sym
 
 ### Coding Languages
 > My main languages are python and C++, and I have also been working with Mathematica and MatLab.
+
+### 📬 Contact
+Feel free to reach out at benjamin.honore@epfl.ch, I would be very happy to discuss !
