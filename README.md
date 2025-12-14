@@ -2,7 +2,6 @@
 
 ### About me
 I'm a student in theoretical physics, also interested in Data Sciences !
-I am currently working on Graph Diffusion Models
 
 ### Projects
 Graph Diffusion Models and Symmetry Breaking
