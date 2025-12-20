@@ -25,6 +25,8 @@ This project focused on using a Deep Neural Network to better disentangle comple
 * **The Solution:** Using supplemental data (such as associated jet information), a Neural Network was trained to separate different Higgs production modes.
 * **My Contribution:** I developed an analysis pipeline to quantify the sensitivity of the trained DNN across various backgrounds, assessing the feasability of a more detailed analysis.
 
+  [Link to repo](https://github.com/anmalara/HiggsFourLeptons)
+
 ---
 
 ### 💻 Technical Skills & Languages
