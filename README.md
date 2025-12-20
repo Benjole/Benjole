@@ -7,13 +7,15 @@ I'm a student in **Theoretical Physics**, also interested in **Data Science** an
 
 ### 🚀 Projects
 
-#### 📊 Graph Diffusion Models and Symmetry Breaking [Diffusion_models](https://github.com/Benjole/Diffusion_models)
+#### 📊 Graph Diffusion Models and Symmetry Breaking
 
 This project involves research on a discrete flow matching model (DeFoG) that operates on graphs. These models are designed to generate new graphs sharing common properties (like topological characteristics or underlying distribution).
 
 * **The Challenge:** Graphs possess an exact permutation symmetry, meaning a model should be inherently aware of this constraint (e.g., using equivariant architectures).
 * **My Investigation:** We explore the effect of intentionally **breaking** the graph permutation symmetry by introducing positional encodings. This procedure, while seemingly detrimental to the graph's inherent structure, has been observed to potentially **accelerate convergence**.
 * **The Goal:** To find the optimal compromise that benefits from the acceleration provided by symmetry breaking while maintaining a consistent and high-quality representation of the graph symmetry.
+
+  [Link to repo](https://github.com/Benjole/Diffusion_models)
 
 #### ⚛️ Higgs Boson to 4 Leptons Decay Analysis
 
