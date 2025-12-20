@@ -7,7 +7,7 @@ I'm a student in **Theoretical Physics**, also interested in **Data Science** an
 
 ### 🚀 Projects
 
-#### 📊 Graph Diffusion Models and Symmetry Breaking [Diffusion_models(https://github.com/Benjole/Diffusion_models)]
+#### 📊 Graph Diffusion Models and Symmetry Breaking [Diffusion_models](https://github.com/Benjole/Diffusion_models)
 
 This project involves research on a discrete flow matching model (DeFoG) that operates on graphs. These models are designed to generate new graphs sharing common properties (like topological characteristics or underlying distribution).
 
